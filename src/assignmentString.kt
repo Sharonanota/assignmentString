@@ -1,10 +1,10 @@
 fun main(){
     var y = "AkiraChix"
 
-    var w = y[3].toString() + y[4]
+    var w = y[3].toString() + y[2]
     println(w)
 
-    var e = "sharon".length
+    var e = "Anota".length
     println(e)
     var t=Fact("sharon",23)
     println(t)
