@@ -19,5 +19,5 @@ fun Fact(name:String,age:Int):String{
 
 fun statment(x:String,y:String){
     if(x==y) {println("that's me")}
-    else{println("I don't know who that is")}
+    else{println("I don't want to know who that is")}git 
 }
